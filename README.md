@@ -17,6 +17,8 @@ Console will initially show the Instance successfully
 
 Console will throw cross domain error
 
+Additionally, I've included a df-main.dev.js file that includes the relevant parts of Demoflows main.dev.js for comparison. 
+
 ## Success on Initial load
 <img src="internals/img/success.png" width="100%">
 
