@@ -96,6 +96,8 @@ const createWindow = async () => {
   new AppUpdater();
 };
 
+app.commandLine.appendSwitch('disable-site-isolation-trials');
+
 /**
  * Add event listeners...
  */
